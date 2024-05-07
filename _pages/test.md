@@ -11,3 +11,7 @@ This makes no sense.
 ## Chapter 2
 
 Local theme or remote theme?
+
+## Chapter 3
+
+Still messing around...

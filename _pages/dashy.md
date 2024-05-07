@@ -217,7 +217,7 @@ sections:
 
 Next, we'll add a `widgets` indicator, and our first widget. We'll add the glances cpu usage widget.
 
-```
+```yml
 sections:
   - name: Aria Info
     widgets:
@@ -230,7 +230,7 @@ At this point, you can save with CTRL + O, and then go to your browser and open 
 
 Let's add another widget. Continuing in the nano editor from where we are. we'll add:
 
-```
+```yml
 sections:
   - name: Aria Info
     widgets:
@@ -246,7 +246,7 @@ You can again save, and take a look at your Dashy dashboard to see the new widge
 
 Let's say you want to add two servers data. It's now hard. We just create another section for our next server like so:
 
-```
+```yml
 sections:
   - name: Aria Info
     widgets:

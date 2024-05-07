@@ -1,16 +1,9 @@
 ---
-title: "Testseite"
-
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+title: "Test Page"
 ---
 
-## Kapitel 1
+This is just a test page.
 
-Dies ist eine Testseite.
+## Chapter 1
+
+This makes no sense.

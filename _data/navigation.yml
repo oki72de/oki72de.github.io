@@ -1,0 +1,6 @@
+main:
+  - title: "Test"
+    url: /_pages/test
+  - title: "External Link"
+    url: https://google.com
+    target: _blank

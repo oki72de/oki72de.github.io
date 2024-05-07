@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "Oliver Kindermann"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/avatar.png"
   bio              : " I am an idiot trying to code..."
   location         : "Planet Earth"
   email            :

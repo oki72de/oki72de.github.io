@@ -1,6 +1,8 @@
 main:
   - title: "Test"
     url: /_pages/test
+  - title: "Dashy"
+    url: /_pages/dashy    
   - title: "Google"
     url: https://google.com
     target: _blank

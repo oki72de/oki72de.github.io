@@ -210,7 +210,7 @@ Just below that line, create a new line. Keep in mind that yaml or `.yml` is ver
 
 Let's add a new Widget section for our server. My server's name is "Aria".
 
-```
+```yaml
 sections:
   - name: Aria Info
 ```

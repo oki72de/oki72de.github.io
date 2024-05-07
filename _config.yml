@@ -20,7 +20,7 @@ title                    : "Hello World!"
 title_separator          : "-"
 subtitle                 : "A Jekyll Playground"
 name                     : "Oliver Kindermann"
-description              : # "Keine Ahnung was hier rein soll"
+description              : "Trying to use Jekyll and do something useful with it."
 url                      : https://oki72de.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

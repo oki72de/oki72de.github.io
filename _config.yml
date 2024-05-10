@@ -113,15 +113,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Oliver Kindermann"
+  name             : "Oliver K."
   avatar           : "/assets/my_avatar.png"
   bio              : "I am an idiot trying to code..."
   location         : "Planet Earth"
-  email            :
+  email            : oliver@kidsman.org
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:oliver@kidsman.org"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

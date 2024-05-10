@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hello World!"
+title                    : "kidsman.org"
 title_separator          : "-"
 subtitle                 : "A Jekyll Playground"
-name                     : "Oliver Kindermann"
+name                     : "Oliver K."
 description              : "Trying to use Jekyll and do something useful with it."
 # url                      : https://oki72de.github.io
 url                      : https://kidsman.org

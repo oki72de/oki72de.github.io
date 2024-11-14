@@ -1,4 +1,6 @@
 main:
+  - title: "Posts"
+    url: /year-archive/
   - title: "Test"
     url: /_pages/test
   - title: "Dashy"

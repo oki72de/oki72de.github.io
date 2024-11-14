@@ -1,6 +1,6 @@
 main:
   - title: "Posts"
-    url: /_layouts/year-archive
+    url: /
   - title: "Test"
     url: /_pages/test
   - title: "Dashy"

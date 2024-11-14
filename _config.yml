@@ -263,7 +263,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-archives
+
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -301,21 +301,7 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-jekyll-archives:
-  enabled: all
-  layout: archive
-  layouts:
-    year: year-archive
-    month: month-archive
-    day: day-archive
-    category: category-archive
-    tag: tag-archive
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
+
 
 
 # HTML Compression

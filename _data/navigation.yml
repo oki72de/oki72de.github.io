@@ -1,6 +1,6 @@
 main:
-  - title: "Posts"
-    url: /year-archive/
+  - title: "Blog"
+    url: /categories/blog/
   - title: "Test"
     url: /_pages/test
   - title: "Dashy"
